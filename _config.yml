@@ -23,10 +23,14 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+#  primary: 18bc9c # light green cerulean
+#  primary-rgb: "24,288,156" # light green cerulean
+#  secondary: 2c3e50 # header, light navy
+#  secondary-dark: 233140 # footer, navy
+  primary: 588157 # grass
+  primary-rgb: "88,129,87" # grass
+  secondary: 3a5a40 # dark, header
+  secondary-dark: 344e41 # darkest, footer
 
 # Footer settings
 footer:
