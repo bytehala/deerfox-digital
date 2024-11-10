@@ -5,8 +5,8 @@ baseUrl: ""
 url: https://deerfox.dev
 description: >-
   Deerfox Digital provides game and software development services. We specialize in Unity, Unreal Engine, and React Native.
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+keywords: "web development, game programming, mobile apps"
+skills: "Web Development • Game Programming • Mobile Apps"
 #meta_author: LastName FirstName
 
 ## Google webmaster tools
@@ -54,11 +54,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Calgary, AB
+  - line: Canada
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Deerfox Digital provides game and software development services. We specialize in Unity, Unreal Engine, React, and React Native. Calgary-based, Canada-wide. If you have a project in mind, we would love to hear from you!'
 
 # Build settings
 markdown: kramdown
